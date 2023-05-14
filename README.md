@@ -2,6 +2,7 @@ SubTask 1: Mean Squared Error: 1.0336349547133693e+25 Root Mean Squared Error: 3
 
 
 SubTask 4: Label: Accuracy: 0.9908, Loss: 0.0218 Marker: Accuracy: 0.9942, Loss: 0.0133
+
 SubTask 5: Accuracy: 0.9056, Loss: 0.2075
 
 
