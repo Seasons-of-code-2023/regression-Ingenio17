@@ -1,4 +1,4 @@
-
+SubTask 1: Mean Squared Error: 1.0336349547133693e+25 Root Mean Squared Error: 3215019369635.849
 
 
 
